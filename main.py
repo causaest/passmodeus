@@ -10,7 +10,7 @@ UPPERCASE_PROMPT = "Would you like to consider uppercase letters along with lowe
 
 def main():
     """
-    You should write your code here. 
+    Add docstring here
     """
     input_length = int(input("Please enter the desired password length: "))
     input_special = int(input("Please enter number of special characters (recommended is 1): "))
